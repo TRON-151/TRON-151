@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=100000" height="40" alt="Java logo"  />
+  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF" height="40" alt="Java logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML 5 logo"/>
   <img width="12" />
@@ -74,19 +74,19 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=000000" height="40" alt="Unreal Engine logo"  />
+  <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=FFFFFF" height="40" alt="Unreal Engine logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=vJMs5fU2hLbg&format=png&color=000000" height="40" alt="Unit logo"  />
+  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF" height="40" alt="Unit logo"  />
   <img width="12" />
   <img src="https://images.ctfassets.net/nrgyaltdicpt/2OlBbaO7oEFSmTVpreHlkb/66a1b6eb1a10b372557ddbdd0e7099c7/ologo_square_colour_green_bg.png" height="40" alt="Overleaf LaTeX logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=zMahjgxLOqfv&format=png&color=000000" height="40" alt="Overleaf LaTeX logo"  />
+  <img src="https://img.icons8.com/?size=100&id=zMahjgxLOqfv&format=png&color=FFFFFF" height="40" alt="QGIS logo"  />
   <img width="12" />
 
 
