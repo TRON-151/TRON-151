@@ -42,8 +42,8 @@
 
 ###
 
-<p align="left">I'm from planet Earth<br><br>
-- 🔭 I’m currently a masters student in University of Münster<br>
+<p align="left">Hi! I am a student<br><br>
+- 🔭 Doing my masters in University of Münster<br>
 - 📚 I'm learning Geo-informatics<br>
 <!-- - ⚡ I have --> </p>
 
@@ -60,15 +60,17 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF" height="40" alt="Java logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=zMahjgxLOqfv&format=png&color=FFFFFF" height="40" alt="QGIS logo"  />
+  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML 5 logo"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=21227&format=png&color=000000" height="40" alt="R logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="CSS 3 logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=21227&format=png&color=000000" height="40" alt="R logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -86,10 +88,10 @@
   <img width="12" />
   <img src="https://images.ctfassets.net/nrgyaltdicpt/2OlBbaO7oEFSmTVpreHlkb/66a1b6eb1a10b372557ddbdd0e7099c7/ologo_square_colour_green_bg.png" height="40" alt="Overleaf LaTeX logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=zMahjgxLOqfv&format=png&color=FFFFFF" height="40" alt="QGIS logo"  />
-  <img width="12" />
 
+<h3 align="left">Contact</h3>
 
+### o.bin.zamir@uni-muenster.de 
   
 </div>
 <!--
