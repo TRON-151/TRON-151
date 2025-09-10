@@ -4,7 +4,7 @@
 
 ##
 
-<h1 align = "center" >Hello! there Coders, 
+<h1 align = "center" >Hello! there fellow techies, 
     <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUxb3FvdzdtMDBqYTh6anBjN2c1dTEzemZteWZhcmwwZGp0YTd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif"/>
 </div>
